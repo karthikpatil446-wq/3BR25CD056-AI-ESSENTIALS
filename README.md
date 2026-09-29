@@ -1,4 +1,4 @@
-# 3BR25CD056-AI-Essentials
+# 3BR25CD056-AI-ESSENTIALS
 
 Karthik AI: An Intelligent Voice-Based Personal
 Assistant for Android
