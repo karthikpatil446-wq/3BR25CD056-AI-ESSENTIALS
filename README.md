@@ -7,5 +7,8 @@ Department of Computer Science and Engineering
 Ballari Institute of Technology and Management
 Ballari, Karnataka, India
 
-day-2coding-assignment
-https://rocket-rum.vercel.app/
+# Day 2 Coding Assignment
+
+## 🚀 Live Project
+
+[Open Rocket Rum](https://rocket-rum.vercel.app/)
