@@ -12,3 +12,7 @@ Ballari, Karnataka, India
 ## 🚀 Live Project
 
 [Open Rocket Rum](https://rocket-rum.vercel.app/)
+
+## 📄 Resume
+
+[View My Resume](./resume.pdf.pdf)
