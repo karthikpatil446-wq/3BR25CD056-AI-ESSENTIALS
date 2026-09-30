@@ -15,4 +15,4 @@ Ballari, Karnataka, India
 
 ## 📄 Resume
 
-[View My Resume](./resume.pdf.pdf)
+[View My Resume](./Karthikpatil_resume.pdf.pdf)
