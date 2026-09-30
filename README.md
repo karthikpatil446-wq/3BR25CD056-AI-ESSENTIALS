@@ -8,7 +8,7 @@ Ballari Institute of Technology and Management
 Ballari, Karnataka, India
 
 ## 📄 Researchpaper
-[View My Research](./KarthikAl:researchpaper.pdf)
+[View My Research](./ExpenseFlow_researchpaper.pdf)
 
 # Day 2 Coding Assignment
 
