@@ -1,11 +1,8 @@
 # 3BR25CD056-AI-ESSENTIALS
 
-Karthik AI: An Intelligent Voice-Based Personal
-Assistant for Android
-Karthik
-Department of Computer Science and Engineering
-Ballari Institute of Technology and Management
-Ballari, Karnataka, India
+ExpenseFlow: A Web-Based Personal Expense
+Management System for Financial Tracking, Budget
+Monitoring and Intelligent Analysis
 
 ## 📄 Researchpaper
 [View My Research](./researchpaper.pdf)
