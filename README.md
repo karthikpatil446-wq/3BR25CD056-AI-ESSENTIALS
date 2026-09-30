@@ -7,6 +7,9 @@ Department of Computer Science and Engineering
 Ballari Institute of Technology and Management
 Ballari, Karnataka, India
 
+## 📄 Researchpaper
+[View My Research](./)
+
 # Day 2 Coding Assignment
 
 ## 🚀 Live Project
