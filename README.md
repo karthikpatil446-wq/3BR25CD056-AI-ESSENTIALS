@@ -19,4 +19,4 @@ Ballari, Karnataka, India
 [ExpenseFlow](https://expensemanagment-f7923.web.app/dashboard.html)
 ## 📄 Resume
 
-[View My Resume](./Karthikpatil_resume.pdf.pdf)
+[View My Resume](./Resume.pdf)
